@@ -42,3 +42,33 @@
 	path = tools/tblCRCTool
 	url = https://github.com/nasa/tblCRCTool.git
   branch = main
+[submodule "apps/cf"]
+	path = apps/cf
+	url = https://github.com/nasa/cf
+[submodule "apps/cs"]
+	path = apps/cs
+	url = https://github.com/nasa/CS
+[submodule "apps/ds"]
+	path = apps/ds
+	url = https://github.com/nasa/DS
+[submodule "apps/fm"]
+	path = apps/fm
+	url = https://github.com/nasa/FM
+[submodule "apps/hk"]
+	path = apps/hk
+	url = https://github.com/nasa/HK
+[submodule "apps/hs"]
+	path = apps/hs
+	url = https://github.com/nasa/HS
+[submodule "apps/lc"]
+	path = apps/lc
+	url = https://github.com/nasa/LC
+[submodule "apps/md"]
+	path = apps/md
+	url = https://github.com/nasa/MD
+[submodule "apps/mm"]
+	path = apps/mm
+	url = https://github.com/nasa/MM
+[submodule "apps/sc"]
+	path = apps/sc
+	url = https://github.com/nasa/SC
